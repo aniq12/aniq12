@@ -1,6 +1,3 @@
-# My-Profile
-![My Profile Picture](https://avatars.githubusercontent.com/u/82928780?v=4)
-
 ## Stats
 ![aniq12's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniq12&show_icons=true&theme=radical)
 
